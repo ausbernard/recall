@@ -1,5 +1,3 @@
-# recall
-
 <div align="center">
   <img src="assets/recall.jpg" width="300" alt="cairn" /><br/><br/>
   <strong>not ai learning with you. keeps receipts of my own ignorance as i learn in a brittle age of self-intelligence.</strong><br/><br/>
