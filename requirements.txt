@@ -1,3 +1,5 @@
 claude-agent-sdk
 python-dotenv
 anthropic
+sentence_transformers
+numpy
