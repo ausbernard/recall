@@ -1,7 +1,7 @@
 """All LLM calls. Single entry point: generate_critique()."""
 
 from anthropic import Anthropic
-from config import get_api_key, get_model, get_temperature
+from src.config import get_api_key, get_model, get_temperature
 
 def _add_line_numbers(code):
     lines = code.strip().split('\n')

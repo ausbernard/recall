@@ -1,7 +1,7 @@
 # Only if you need change the CLI (add a flag, change prompt style)
 
-from session import Session
-from config import load_config
+from src.session import Session
+from src.config import load_config
 
 def main():
     config = load_config()

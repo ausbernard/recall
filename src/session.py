@@ -1,7 +1,7 @@
 """Session state, command routing, and turn managment"""
 
-from critique import generate_critique
-from embedding import search_chunks
+from src.critique import generate_critique
+from src.embedding import search_chunks
 
 class Session:
     def __init__(self, config):

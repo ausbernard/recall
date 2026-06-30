@@ -2,7 +2,7 @@
 
 from sentence_transformers import SentenceTransformer
 import numpy as np
-from config import get_embedding_model
+from src.config import get_embedding_model
 
 _model = None   # Lazy loaded
 
